@@ -7,15 +7,20 @@ I care about writing clean, well-tested code and solving hard problems — my CS
 ## What I'm working on now
 
 - **Open-source contributor** to [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) — refactoring internals, implementing features, and participating in code review on a real-world Rust messaging system
-- **[Nonogram Solver](https://nonogram-solver.willwang.io/)** — Rust + Dioxus web app with step-by-step visualization, using a relaxation + 2-SAT solving framework
-- **[Solo Chess Solver](https://solo-chess-solver.willwang.io/)** — Interactive browser-based puzzle solver with move validation and solution playback
+- **[react-djot](https://github.com/willwang-io/react-djot)** — `react-markdown` for Djot
 
 ## Tech I work with
 
-**Languages:** Rust, Python, C++, JavaScript  
-**Web:** React, Next.js, Tailwind, Dioxus  
-**Backend:** FastAPI, Actix Web, PostgreSQL, Redis  
-**Infra:** AWS (EC2, S3, Route 53), Docker, Cloudflare
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Get in touch
 
