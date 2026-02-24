@@ -34,4 +34,4 @@ I'm open to software developer roles across Canada, remote, hybrid and on-site a
 
 ![](https://projecteuler.net/profile/will_wang.png)
 
-[![will_wang](https://img.shields.io/badge/will_wang-Expert%201865-blue?style=for-the-badge)](https://codeforces.com/profile/will_wang)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=will_wang)
