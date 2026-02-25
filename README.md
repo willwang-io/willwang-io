@@ -8,6 +8,7 @@ I care about writing clean, well-tested code and solving hard problems — my CS
 
 - **Open-source contributor** to [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) — refactoring internals, implementing features, and participating in code review on a real-world Rust messaging system
 - **[react-djot](https://github.com/willwang-io/react-djot)** — `react-markdown` for Djot
+- **dioxus-djot** - `react-djot` for Dioxus
 
 ## Tech I like to use
 
